@@ -3,6 +3,11 @@ Insurance-Fraud-Claims-Detection
 Problem Statement: -
 Need a model to predict the fraudlent vehicle insurance claims
 
+Kaggle data set https://www.kaggle.com/buntyshah/insurance-fraud-claims-detection
+
+insurance_claims.csv - Dataset
+insurance_claims.ipynb - Python code(Jupyter Nitebook)
+
 Data Analysis: -
 The data contains 1000 observations and 40 dimensions. The data is imbalanced as the target variable 'fraud_reported' has more ‘No’ category than ‘Yes’. (Binary classification)
 The following are the columns
